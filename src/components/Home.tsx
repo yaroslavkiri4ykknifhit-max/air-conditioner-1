@@ -62,7 +62,7 @@ function Hero({ go }: HomeProps) {
           className="group block w-full text-left"
         >
           <div className="img-frame aspect-[16/8.5] w-full md:aspect-[16/7]">
-            <img src="/images/hero-unit.jpg" alt={featured.imageAlt} />
+            <img src="images/hero-unit.jpg" alt={featured.imageAlt} />
           </div>
           <div className="hairline-t mt-0 flex items-center justify-between pt-4">
             <span className="text-[11px] font-medium uppercase tracking-[0.18em] text-[var(--muted)]">
@@ -232,7 +232,7 @@ function Studio() {
         <div className="lg:col-span-6">
           <Reveal>
             <div className="img-frame aspect-[4/5] w-full">
-              <img src="/images/studio-workshop.jpg" alt="Мастерская: макет трассы и инструменты" />
+              <img src="images/studio-workshop.jpg" alt="Мастерская: макет трассы и инструменты" />
             </div>
             <p className="mt-3 text-[11px] font-medium uppercase tracking-[0.18em] text-[var(--muted)]">
               Макет трассы / проверка до сверловки
@@ -366,7 +366,7 @@ function ProcessPreview({ go }: HomeProps) {
         <div className="order-1 lg:order-2 lg:col-span-7">
           <Reveal delay={100}>
             <div className="img-frame aspect-[4/3] w-full">
-              <img src="/images/process-copper.jpg" alt="Изгиб фреоновой магистрали" />
+              <img src="images/process-copper.jpg" alt="Изгиб фреоновой магистрали" />
             </div>
           </Reveal>
         </div>

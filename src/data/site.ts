@@ -175,7 +175,7 @@ export const site: SiteConfig = {
       subtitle: "Инвертор / Wi-Fi",
       summary:
         "Мягкий направленный поток: заслонка распределяет воздух от дивана до дальнего угла комнаты — без прямого удара по людям.",
-      image: "/images/product-aera.jpg",
+      image: "images/product-aera.jpg",
       imageAlt: "Белый инверторный сплит-кондиционер Аэра 09, каталожный снимок",
       price: 42900,
       oldPrice: 48900,
@@ -203,7 +203,7 @@ export const site: SiteConfig = {
       subtitle: "Инвертор / Smart Home",
       summary:
         "Один контур — две скорости жизни: днём тихий фон в 21 дБ, вечером — точный климат по сценарию из приложения.",
-      image: "/images/product-polaris.jpg",
+      image: "images/product-polaris.jpg",
       imageAlt: "Сплит-кондиционер Полярис 12 с дисплем температуры",
       price: 58900,
       oldPrice: 64900,
@@ -231,7 +231,7 @@ export const site: SiteConfig = {
       subtitle: "Напольно-потолочный",
       summary:
         "Два режима установки — у пола или под потолком — и одинаково ровный поток во весь объём зала или шоурума.",
-      image: "/images/product-duet.jpg",
+      image: "images/product-duet.jpg",
       imageAlt: "Напольно-потолочный кондиционер Дуэт 24, каталожный снимок",
       price: 98900,
       oldPrice: 109900,
@@ -259,7 +259,7 @@ export const site: SiteConfig = {
       subtitle: "Один внешний блок / два внутренних",
       summary:
         "Один внешний блок ведёт два внутренних: спальня и гостиная живут в разных режимах, а на фасаде остаётся одна точка.",
-      image: "/images/product-multi.jpg",
+      image: "images/product-multi.jpg",
       imageAlt: "Мульти-сплит система с двумя внутренними блоками в комнате",
       price: 114900,
       oldPrice: 129900,
@@ -315,7 +315,7 @@ export const site: SiteConfig = {
       title: "Квартира с западным солнцем",
       location: "Москва · Чистые пруды",
       year: "2026",
-      image: "/images/case-living.jpg",
+      image: "images/case-living.jpg",
       imageAlt: "Гостиная с установленным сплит-кондиционером в вечернем свете",
       summary:
         "Тихий поток, низкая трасса и монтаж, который не прерывает жизнь в квартире.",
@@ -328,7 +328,7 @@ export const site: SiteConfig = {
     },
   ],
   process: {
-    image: "/images/process-copper.jpg",
+    image: "images/process-copper.jpg",
     imageAlt: "Руки мастера гнут медную фреоновую магистраль",
     title: "Прямой поток, изгиб и возврат",
     lead: "Металл не примет изгиб просто потому, что в него загнали трубу. В проекте нужно заложить место на возвратный пролёт.",
